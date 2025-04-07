@@ -7,7 +7,7 @@ require (
 	github.com/anacrolix/torrent v1.58.1
 	github.com/madflojo/tasks v1.2.1
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/time v0.0.0-20220609170525-579cf78fd858
+	golang.org/x/time v0.11.0
 )
 
 require (
