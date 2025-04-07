@@ -3,7 +3,7 @@ module github.com/charleshuang3/camouflagetorrentclients
 go 1.24.1
 
 require (
-	github.com/anacrolix/log v0.15.3-0.20240627045001-cd912c641d83
+	github.com/anacrolix/log v0.16.0
 	github.com/anacrolix/torrent v1.58.1
 	github.com/madflojo/tasks v1.2.1
 	github.com/stretchr/testify v1.10.0
